@@ -1,6 +1,5 @@
+
 let round = 1;
-
-
 const lightsWork = () => {
 
     switch (round) {

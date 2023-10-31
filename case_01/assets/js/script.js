@@ -1,9 +1,8 @@
+
+
 let round = 1;
 
-
 const changeLetters = () => {
-
-
 
     switch (round) {
 
