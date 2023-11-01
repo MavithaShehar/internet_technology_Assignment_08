@@ -6,7 +6,6 @@ const indexing = () => {
     for (let i = 0; i < runningList.length; i++) {
         runningList.eq(i).text(array[i]);
     }
-
     array.unshift(array.pop());
 }
 
