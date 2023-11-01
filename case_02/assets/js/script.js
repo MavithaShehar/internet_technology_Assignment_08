@@ -11,5 +11,4 @@ const indexing = () => {
 
     array.unshift(array.pop());
 }
-
 setInterval(indexing , 500);
